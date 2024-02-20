@@ -7,9 +7,9 @@ Este projeto consiste em um sistema dedicado ao cadastro e listagem de usuários
 **Nota Importante:**
 O componente de formulário utilizado no frontend foi reaproveitado de um projeto em desenvolvimento. Portanto, todo o conteúdo frontend demonstrado não é exclusivo deste projeto, mas sim uma reutilização de código para apresentação do backend funcional.
 
-## Branch PS2List-backend
+## Repositório PS2List-backend
 
-A branch PS2List-backend foi criada exclusivamente para o deploy da API no servidor. Ela contém as configurações necessárias para garantir o correto funcionamento da aplicação, permitindo a comunicação eficiente entre o frontend e o backend no ambiente de produção.
+O Repositório PS2List-backend foi criada exclusivamente para o deploy da API no servidor. Ela contém as configurações necessárias para garantir o correto funcionamento da aplicação, permitindo a comunicação eficiente entre o frontend e o backend no ambiente de produção.
 
 ## Tecnologias Utilizadas
 
